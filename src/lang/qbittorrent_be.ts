@@ -513,7 +513,7 @@ Error: %2</source>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="337"/>
         <source>Outstanding memory when checking torrents</source>
-        <translation type="unfinished"></translation>
+        <translation>Дадатковая памяць пры праверцы торэнтаў</translation>
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="351"/>
@@ -660,7 +660,7 @@ Error: %2</source>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="499"/>
         <source>Round-robin</source>
-        <translation type="unfinished"></translation>
+        <translation>Кругавы</translation>
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="499"/>
@@ -690,12 +690,12 @@ Error: %2</source>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="521"/>
         <source>Always announce to all trackers in a tier</source>
-        <translation type="unfinished"></translation>
+        <translation>Заўсёды анансаваць на ўсе трэкеры ва ўзроўні</translation>
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="525"/>
         <source>Always announce to all tiers</source>
-        <translation type="unfinished"></translation>
+        <translation>Заўсёды анансаваць на ўсе ўзроўні</translation>
     </message>
     <message>
         <location filename="../gui/advancedsettings.cpp" line="435"/>
@@ -813,7 +813,7 @@ Error: %2</source>
     <message>
         <location filename="../app/application.cpp" line="547"/>
         <source>The Web UI administrator username is: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Імя адміністратара вэб-інтэрфейса: %1</translation>
     </message>
     <message>
         <location filename="../app/application.cpp" line="548"/>
@@ -846,7 +846,7 @@ Error: %2</source>
     <message>
         <location filename="../base/asyncfilestorage.cpp" line="41"/>
         <source>Could not create directory &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Немагчыма сварыць каталог &apos;%1&apos;.</translation>
     </message>
 </context>
 <context>
@@ -1108,7 +1108,7 @@ Supports the formats: S01E01, 1x1, 2017.01.01 and 01.01.2017 (Date formats also 
     <message>
         <location filename="../gui/rss/automatedrssdownloader.cpp" line="385"/>
         <source>Rule deletion confirmation</source>
-        <translation>Пацверджанне выдалення правіла</translation>
+        <translation>Пацвярджэнне выдалення правіла</translation>
     </message>
     <message>
         <location filename="../gui/rss/automatedrssdownloader.cpp" line="394"/>
@@ -1571,12 +1571,12 @@ Supports the formats: S01E01, 1x1, 2017.01.01 and 01.01.2017 (Date formats also 
     <message>
         <location filename="../base/bittorrent/session.cpp" line="3821"/>
         <source>Cannot write to torrent resume folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Немагчыма запісаць у папку аднаўлення торэнта.</translation>
     </message>
     <message>
         <location filename="../base/bittorrent/session.cpp" line="3825"/>
         <source>Cannot create torrent resume folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Немагчыма стварыць папку аднаўлення торэента.</translation>
     </message>
     <message>
         <location filename="../base/bittorrent/session.cpp" line="3928"/>
@@ -1587,7 +1587,7 @@ Supports the formats: S01E01, 1x1, 2017.01.01 and 01.01.2017 (Date formats also 
     <message>
         <location filename="../base/bittorrent/session.cpp" line="4005"/>
         <source>Couldn&apos;t load torrents queue from &apos;%1&apos;. Error: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Немагчыма загрузіць чаргу торэнтаў з &apos;%1&apos;. Памылка: %2</translation>
     </message>
     <message>
         <location filename="../base/bittorrent/session.cpp" line="4055"/>
@@ -1687,22 +1687,22 @@ Supports the formats: S01E01, 1x1, 2017.01.01 and 01.01.2017 (Date formats also 
     <message>
         <location filename="../base/bittorrent/torrenthandle.cpp" line="1333"/>
         <source>On</source>
-        <translation>УКЛ</translation>
+        <translation>Укл.</translation>
     </message>
     <message>
         <location filename="../base/bittorrent/torrenthandle.cpp" line="1333"/>
         <source>Off</source>
-        <translation>ВЫКЛ</translation>
+        <translation>Выкл.</translation>
     </message>
     <message>
         <location filename="../base/bittorrent/torrenthandle.cpp" line="1449"/>
         <source>Successfully moved torrent: %1. New path: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Торэнт %1. паспяхова перамешчаны. Новы шлях: %2</translation>
     </message>
     <message>
         <location filename="../base/bittorrent/torrenthandle.cpp" line="1484"/>
         <source>Could not move torrent: &apos;%1&apos;. Reason: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Немагчыма перамясціць торэнт: &apos;%1&apos;. Прычына: %2</translation>
     </message>
     <message>
         <location filename="../base/bittorrent/torrenthandle.cpp" line="1679"/>
@@ -1817,7 +1817,7 @@ Supports the formats: S01E01, 1x1, 2017.01.01 and 01.01.2017 (Date formats also 
     <message>
         <location filename="../gui/deletionconfirmationdialog.ui" line="20"/>
         <source>Deletion confirmation</source>
-        <translation>Пацверджанне выдалення</translation>
+        <translation>Пацвярджэнне выдалення</translation>
     </message>
     <message>
         <location filename="../gui/deletionconfirmationdialog.ui" line="67"/>
@@ -1827,7 +1827,7 @@ Supports the formats: S01E01, 1x1, 2017.01.01 and 01.01.2017 (Date formats also 
     <message>
         <location filename="../gui/deletionconfirmationdialog.ui" line="91"/>
         <source>Also delete the files on the hard disk</source>
-        <translation>Таксама выдаліць файл з дыска</translation>
+        <translation>Выдаліць таксама і файлы з дыска</translation>
     </message>
     <message>
         <location filename="../gui/deletionconfirmationdialog.h" line="52"/>
@@ -2388,7 +2388,7 @@ Supports the formats: S01E01, 1x1, 2017.01.01 and 01.01.2017 (Date formats also 
     <message>
         <location filename="../gui/mainwindow.ui" line="205"/>
         <source>P&amp;ause All</source>
-        <translation>С&amp;пыніць усё</translation>
+        <translation>С&amp;пыніць усе</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.ui" line="167"/>
@@ -2584,7 +2584,7 @@ Do you want to associate qBittorrent to torrent files and Magnet links?</source>
         <location filename="../gui/mainwindow.cpp" line="846"/>
         <source>&apos;%1&apos; was added.</source>
         <comment>e.g: xxx.avi was added.</comment>
-        <translation type="unfinished"></translation>
+        <translation>&apos;%1&apos; дададзены.</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="852"/>
@@ -2600,7 +2600,7 @@ Do you want to associate qBittorrent to torrent files and Magnet links?</source>
     <message>
         <location filename="../gui/mainwindow.cpp" line="951"/>
         <source>Recursive download confirmation</source>
-        <translation>Пацверджанне рэкурсіўнага спампоўвання</translation>
+        <translation>Пацвярджэнне рэкурсіўнага спампоўвання</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="957"/>
@@ -2630,22 +2630,22 @@ Do you want to associate qBittorrent to torrent files and Magnet links?</source>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1072"/>
         <source>qBittorrent was just updated and needs to be restarted for the changes to be effective.</source>
-        <translation type="unfinished"></translation>
+        <translation>qBittorrent абнавіўся і патрабуе перазапуску для актывацыі новых функцый.</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1158"/>
         <source>qBittorrent is closed to tray</source>
-        <translation type="unfinished"></translation>
+        <translation>qBittorrent закрыты ў вобласць апавяшчэнняў</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1171"/>
         <source>Some files are currently transferring.</source>
-        <translation type="unfinished"></translation>
+        <translation>Некаторыя файлы зараз перадаюцца.</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1171"/>
         <source>Are you sure you want to quit qBittorrent?</source>
-        <translation type="unfinished"></translation>
+        <translation>Сапраўды хочаце выйсці з qBittorrent?</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1173"/>
@@ -2666,7 +2666,7 @@ Do you want to associate qBittorrent to torrent files and Magnet links?</source>
         <location filename="../gui/mainwindow.cpp" line="1577"/>
         <source>%1/s</source>
         <comment>s is a shorthand for seconds</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1/с</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1786"/>
@@ -2742,17 +2742,17 @@ Do you want to install a newer version now?</source>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1848"/>
         <source>A new version is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Даступна новая версія.</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1849"/>
         <source>Do you want to download %1?</source>
-        <translation type="unfinished"></translation>
+        <translation>Хочаце спампаваць %1?</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1850"/>
         <source>Open changelog...</source>
-        <translation type="unfinished"></translation>
+        <translation>Адкрыць спіс змен...</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1860"/>
@@ -2844,7 +2844,7 @@ Please install it manually.</source>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1373"/>
         <source>Open Torrent Files</source>
-        <translation>Пазначце Torrent-файлы</translation>
+        <translation>Адкрыць Torrent-файлы</translation>
     </message>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1374"/>
@@ -2854,7 +2854,7 @@ Please install it manually.</source>
     <message>
         <location filename="../gui/mainwindow.cpp" line="1424"/>
         <source>Options were saved successfully.</source>
-        <translation>Налады паспяхова захаваны.</translation>
+        <translation>Параметры паспяхова захаваны.</translation>
     </message>
 </context>
 <context>
@@ -7179,7 +7179,7 @@ No further notices will be issued.</source>
     <message>
         <location filename="../gui/rss/rsswidget.cpp" line="297"/>
         <source>Deletion confirmation</source>
-        <translation>Пацверджанне выдалення</translation>
+        <translation>Пацвярджэнне выдалення</translation>
     </message>
     <message>
         <location filename="../gui/rss/rsswidget.cpp" line="297"/>
@@ -9117,7 +9117,7 @@ Please choose a different name and try again.</source>
         <location filename="../gui/transferlistmodel.cpp" line="110"/>
         <source>Added On</source>
         <comment>Torrent was added to transfer list on 01/01/2010 08:00</comment>
-        <translation>Даддзены</translation>
+        <translation>Дададзены</translation>
     </message>
     <message>
         <location filename="../gui/transferlistmodel.cpp" line="111"/>
@@ -9240,7 +9240,7 @@ Please choose a different name and try again.</source>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="686"/>
         <source>Recheck confirmation</source>
-        <translation>Пацверджанне пераправеркі</translation>
+        <translation>Пацвярджэнне пераправеркі</translation>
     </message>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="686"/>
@@ -9273,7 +9273,7 @@ Please choose a different name and try again.</source>
         <location filename="../gui/transferlistwidget.cpp" line="870"/>
         <source>Pause</source>
         <comment>Pause the torrent</comment>
-        <translation>Спыніць</translation>
+        <translation>Прыпыніць</translation>
     </message>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="406"/>
@@ -9294,7 +9294,7 @@ Please choose a different name and try again.</source>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="783"/>
         <source>Remove all tags from selected torrents?</source>
-        <translation>Выдаліць усе тэгі для выбранага торэнта?</translation>
+        <translation>Выдаліць усе тэгі для выбраных торэнтаў?</translation>
     </message>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="797"/>
@@ -9346,13 +9346,13 @@ Please choose a different name and try again.</source>
         <location filename="../gui/transferlistwidget.cpp" line="886"/>
         <source>Move up</source>
         <comment>i.e. move up in the queue</comment>
-        <translation>Угару</translation>
+        <translation>Павысіць</translation>
     </message>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="888"/>
         <source>Move down</source>
         <comment>i.e. Move down in the queue</comment>
-        <translation>Долу</translation>
+        <translation>Панізіць</translation>
     </message>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="890"/>
@@ -9369,7 +9369,7 @@ Please choose a different name and try again.</source>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="894"/>
         <source>Set location...</source>
-        <translation>Перанесці змесціва...</translation>
+        <translation>Задаць размяшчэнне...</translation>
     </message>
     <message>
         <location filename="../gui/transferlistwidget.cpp" line="898"/>
@@ -9672,13 +9672,13 @@ Please choose a different name and try again.</source>
         <location filename="../base/utils/misc.cpp" line="368"/>
         <source>%1h %2m</source>
         <comment>e.g: 3hours 5minutes</comment>
-        <translation>%1гадз %2хв</translation>
+        <translation>%1 гадз %2 хв</translation>
     </message>
     <message>
         <location filename="../base/utils/misc.cpp" line="373"/>
         <source>%1d %2h</source>
         <comment>e.g: 2days 10hours</comment>
-        <translation>%1дз. %2гадз</translation>
+        <translation>%1 дз. %2 гадз</translation>
     </message>
     <message>
         <location filename="../base/utils/misc.cpp" line="277"/>
