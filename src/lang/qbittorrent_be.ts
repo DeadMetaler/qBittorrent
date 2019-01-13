@@ -846,7 +846,7 @@ Error: %2</source>
     <message>
         <location filename="../base/asyncfilestorage.cpp" line="41"/>
         <source>Could not create directory &apos;%1&apos;.</source>
-        <translation>Немагчыма сварыць каталог &apos;%1&apos;.</translation>
+        <translation>Немагчыма стварыць каталог &apos;%1&apos;.</translation>
     </message>
 </context>
 <context>
